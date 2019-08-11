@@ -1,0 +1,7 @@
+[core]        
+	editor = vim 
+[alias]       
+	co = checkout
+	st = status
+	ll = log --pretty=format:\"%C(yellow)%h%Creset %<(50,trunc)%s  %Cgreen%<(15,trunc)%an%Creset %C(auto)%d%Creset\" -11
+	lb = for-each-ref --sort=-committerdate --format='%(committerdate:short) %(refname)' refs/heads refs/remotes --count=11
