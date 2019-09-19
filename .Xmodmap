@@ -1,0 +1,13 @@
+clear Lock
+keycode 66 = Mode_switch
+keycode 49 = Escape asciitilde grave asciitilde
+keycode 31 = i I Up I
+keycode 45 = k K Down K
+keycode 44 = j J Left J
+keycode 46 = l L Right L
+keycode 30 = u U Prior U
+keycode 32 = o O Next O
+keycode 43 = h H Home H
+keycode 57 = n N End N
+keycode 51 = backslash bar Insert bar
+keycode 22 = BackSpace BackSpace Delete BackSpace
