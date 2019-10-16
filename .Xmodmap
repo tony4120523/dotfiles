@@ -12,3 +12,5 @@ keycode 59 = comma less Prior less
 keycode 60 = period greater Next greater
 keycode 51 = backslash bar Insert bar
 keycode 22 = BackSpace BackSpace Delete BackSpace
+keycode 38 = a A Left A
+keycode 39 = s S Right S
