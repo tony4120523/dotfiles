@@ -12,6 +12,8 @@ alias dh='sudo dhcpcd'
 alias pt='ping -c 2 google.com'
 alias x='startx'
 alias sdn='shutdown -h now'
+alias rbn='shutdown -r now'
+
 PS1='[\u@\h \W]\$ '
 
 # Add git branch if its present to PS1
