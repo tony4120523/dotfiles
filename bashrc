@@ -7,6 +7,8 @@
 
 alias ls='ls --color=auto'
 alias ll='ls -al --color=auto'
+alias lsf="ls -l | egrep -v '^d'"
+alias lsd="ls -l | egrep '^d'"
 alias c='clear'
 alias dh='sudo dhcpcd'
 alias pt='ping -c 2 google.com'
