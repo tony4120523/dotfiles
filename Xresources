@@ -35,5 +35,5 @@
 *.color7:       #c0b18b
 *.color15:      #c0b18b
 
-URxvt.scrollBar: false
-URxvt.font: xft:Inconsolata:size=16
+# URxvt.scrollBar: false
+# URxvt.font: xft:Inconsolata:size=16
